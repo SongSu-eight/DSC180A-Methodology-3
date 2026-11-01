@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Song Su
-sosu@ucsd.edu
+Song Su and Huiyu Yie
